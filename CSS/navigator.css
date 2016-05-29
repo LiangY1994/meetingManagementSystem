@@ -1,0 +1,37 @@
+ul.navigator li{
+    position: relative;
+    list-style-type: none;
+    float: left;
+    padding: 5px;
+    height: 18px;
+}
+ul.navigator li:hover {
+    background-color: #1d2986; 
+    border-top: red solid 1px;
+}
+ul.navigator li a{
+    text-decoration: none; 
+    color: #c7c8d1;
+    font-family: fantasy; 
+    font-weight: 100;
+    font-size: 1em;
+}
+ul#naviUser li{
+    position: relative;
+    float: left;
+    padding: 5px;
+    height: 18px;
+    margin-right: 2em;
+    text-align: center;
+}
+ul#naviUser li:hover {
+    background-color: #d4b6b6; 
+    border-top: red solid 1px;
+}
+ul#naviUser li a{
+    text-decoration: none; 
+    color: #432929;
+    font-family: fantasy; 
+    font-weight: 100;
+    font-size: 1em;
+}

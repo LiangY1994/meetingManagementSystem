@@ -1,0 +1,21 @@
+@import url("navigator.css");
+@import url("logIn.css");
+@import url("showMeeting.css");
+a{
+    text-decoration: none;
+}
+img#banner{
+    height: 10em;
+    min-width: 100%;
+}
+h2#header{
+    position: absolute;
+    left: 2em;
+    top: 0.6em;
+    color: #f8f1f1;
+    font-size: 2.5em;
+}
+div#footer{
+    font-size: large;
+    text-align: center;
+}
